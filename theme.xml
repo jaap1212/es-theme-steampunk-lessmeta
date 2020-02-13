@@ -30,7 +30,7 @@ version         1.0
          <pos>0.3 0.930</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>FFFFFF</color>
-         <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontPath>./_inc/fonts/Star Trek BT.ttf</fontPath>
 	 <fontSize>0.03</fontSize>
       </text>
    </view>
@@ -51,7 +51,7 @@ version         1.0
          <selectedColor>e22828</selectedColor>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
-         <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontPath>./_inc/fonts/Star Trek BT.ttf</fontPath>
          <fontSize>0.03</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound></scrollSound>
@@ -90,7 +90,7 @@ version         1.0
       </text>
       <text name="md_lbl_rating, md_lbl_playcount,md_lbl_players, md_playcount">
          <color>FFFFFF</color>
-         <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontPath>./_inc/fonts/MATURASC.ttf</fontPath>
          <fontSize>0.0195</fontSize>
       </text>
       <text name="md_lbl_rating">
@@ -112,7 +112,7 @@ version         1.0
          <size>0.0375 0.025</size>
 		 <size>0.375 0.025</size>
 		 <color>FFFFFF</color>
-         <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
+         <fontPath>./_inc/fonts/MATURASC.ttf</fontPath>
          <fontSize>0.0195</fontSize>
       </text>
           
@@ -140,7 +140,7 @@ version         1.0
       </image>
       <image name="md_image">
          <origin>.5 .5</origin>
-         <pos>0.789 0.485</pos>
+         <pos>0.786 0.485</pos>
          <maxSize>0.45 0.45</maxSize>
       </image>
       <image name="md_marquee">
@@ -158,7 +158,7 @@ version         1.0
       </image>
       <video name="md_video">
          <origin>0.5 0.5</origin>
-         <pos>0.789 0.485</pos>
+         <pos>0.786 0.485</pos>
          <maxSize>0.45 0.45</maxSize>
          <delay>1.5</delay>
          <default>./_inc/videos/static.mp4</default>

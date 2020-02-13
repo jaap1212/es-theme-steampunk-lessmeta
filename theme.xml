@@ -30,8 +30,8 @@ version         1.0
          <pos>0.3 0.930</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>FFFFFF</color>
-         <fontPath>./_inc/fonts/Star Trek BT.ttf</fontPath>
-	 <fontSize>0.03</fontSize>
+         <fontPath>./_inc/fonts/CollegiateFLF.ttf</fontPath>
+	 <fontSize>0.025</fontSize>
       </text>
    </view>
 </feature>
@@ -48,13 +48,13 @@ version         1.0
          <pos>0.1875 0.175</pos>
          <size>0.45 0.675</size>
          <selectorColor>1c1c1c00</selectorColor>
-         <selectedColor>e22828</selectedColor>
-         <primaryColor>ffffff</primaryColor>
-         <secondaryColor>ffffff</secondaryColor>
-         <fontPath>./_inc/fonts/Star Trek BT.ttf</fontPath>
-         <fontSize>0.03</fontSize>
+         <selectedColor>70a5c4</selectedColor>
+         <primaryColor>F7F7F7</primaryColor>
+         <secondaryColor>F7F7F7</secondaryColor>
+         <fontPath>./_inc/fonts/CollegiateFLF.ttf</fontPath>
+         <fontSize>0.025</fontSize>
          <forceUppercase>1</forceUppercase>
-         <scrollSound></scrollSound>
+         <scrollSound>./_inc/scroll-old.wav</scrollSound>
          <alignment>center</alignment>
       </textlist>
    </view>
